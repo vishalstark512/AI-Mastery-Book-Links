@@ -16,3 +16,13 @@ This contains all the links mentioned in the different chapter of the book
 [7] Open AI Dota paper: https://arxiv.org/abs/1912.06680
 
 [8] Human vs AI in GO part 2: https://goattack.far.ai/pdfs/go_attack_paper.pdf
+
+
+## Chapter 2 Links
+[9] Anaconda Downloads: https://www.anaconda.com/download/
+
+[10] VS Code Download: https://code.visualstudio.com/download
+
+[11] Installing Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+[12] OOPS in Python: https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim
