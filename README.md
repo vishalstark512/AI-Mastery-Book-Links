@@ -41,7 +41,7 @@ This contains all the links mentioned in the different chapter of the book
 
 
 ## Chapter 5 Links
-[17] StatsQuest video on PCA: https://ieeexplore.ieee.org/document/256500](https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer
+[17] StatsQuest video on PCA: https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer
 
 [18] Understanding SMO, similar to SGD optimization: https://en.wikipedia.org/wiki/Sequential_minimal_optimization
 
