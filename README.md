@@ -30,3 +30,6 @@ This contains all the links mentioned in the different chapter of the book
 
 ## Chapter 3 Links
 [13] Write Regex expression from english text: https://www.autoregex.xyz/
+
+## Chapter 4 Links
+[14] NN as Universal Approximators: https://ieeexplore.ieee.org/document/256500
