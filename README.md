@@ -31,9 +31,19 @@ This contains all the links mentioned in the different chapter of the book
 ## Chapter 3 Links
 [13] Write Regex expression from english text: https://www.autoregex.xyz/
 
+
 ## Chapter 4 Links
 [14] NN as Universal Approximators: https://ieeexplore.ieee.org/document/256500
 
 [15] Paper on Neural Network pruning: https://arxiv.org/pdf/2205.06175.pdf
 
 [16] GATO: A generalised agent paper: https://arxiv.org/pdf/2205.06175.pdf
+
+
+## Chapter 5 Links
+[17] StatsQuest video on PCA: [https://ieeexplore.ieee.org/document/256500](https://www.youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer)
+
+[18] Understanding SMO, just like SGD: https://en.wikipedia.org/wiki/Sequential_minimal_optimization
+
+
+
