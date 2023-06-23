@@ -73,3 +73,20 @@
 [27] IIIT Pet dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 
+## Chapter 11 Links
+[28] Stanford RNN lecture: https://www.youtube.com/watch?v=6niqTuYFZLQ&ab_channel=StanfordUniversitySchoolofEngineering
+
+[29] Statsquest video on LSTM: https://www.youtube.com/watch?v=YCzL96nL7j0&ab_channel=StatQuestwithJoshStarmer
+
+[30] MIT: Transformer, and Attention: https://www.youtube.com/watch?v=ySEx_Bqxvvo&ab_channel=AlexanderAmini
+
+[31] Stanford, self-attention and transformers: https://www.youtube.com/watch?v=ptuGllU5SQQ&ab_channel=StanfordOnline
+
+[32] VAE explained: https://www.youtube.com/watch?v=9zKuYvjFFS8&t=530s&ab_channel=ArxivInsights
+
+[33] Power of GANs: https://this-person-does-not-exist.com/en 
+
+[34] Stanford: Generative models: https://www.youtube.com/watch?v=5WoItGTWV54&ab_channel=StanfordUniversitySchoolofEngineering
+
+[35] Ian Goodfellow on GANs: https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=656s&ab_channel=LexFridman
+
