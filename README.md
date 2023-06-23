@@ -1,5 +1,5 @@
-(https://github.com/vishalstark512/AI-Mastery-Book-Links/assets/25343823/bdea2810-51b0-401c-a8b6-ced5a6cf15e5)# AI-Mastery-Book-Links
-This contains all the links mentioned in the different chapter of the book
+# This contains all the links mentioned in the different chapters of the book
+
 ## Chapter 1 Links
 [1] BackPropagation: https://www.nature.com/articles/323533a0
 
