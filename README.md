@@ -1,4 +1,4 @@
-# AI-Mastery-Book-Links
+![image](https://github.com/vishalstark512/AI-Mastery-Book-Links/assets/25343823/bdea2810-51b0-401c-a8b6-ced5a6cf15e5)# AI-Mastery-Book-Links
 This contains all the links mentioned in the different chapter of the book
 ## Chapter 1 Links
 [1] BackPropagation: https://www.nature.com/articles/323533a0
@@ -49,7 +49,7 @@ This contains all the links mentioned in the different chapter of the book
 
 
 ## Chapter 6 Links
-
+[20] TensorFlow NN playgorund: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.19712&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 
 ## Chapter 7 Links
 [20] 3Blue1Brown Backpropagation video: https://www.youtube.com/watch?v=Ilg3gGewQ5U&ab_channel=3Blue1Brown
