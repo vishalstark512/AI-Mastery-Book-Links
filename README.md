@@ -64,7 +64,7 @@
 
 
 ## Chapter 9 Links
-[23] TensorFlow Guide: https://www.tensorflow.org/guide/
+[25] TensorFlow Guide: https://www.tensorflow.org/guide/
 
 
 
