@@ -63,6 +63,8 @@
 [24] Stanford CNN architectures: https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9&ab_channel=StanfordUniversitySchoolofEngineering
 
 
+## Chapter 9 Links
+[23] TensorFlow Guide: https://www.tensorflow.org/guide/
 
 
 
