@@ -48,4 +48,21 @@ This contains all the links mentioned in the different chapter of the book
 [19] Optimization of Logistic regression: https://medium.com/aiguys/beautiful-maths-behind-logistic-regression-optimization-6cefd3ec1c91 
 
 
+## Chapter 6 Links
+
+
+## Chapter 7 Links
+[20] 3Blue1Brown Backpropagation video: https://www.youtube.com/watch?v=Ilg3gGewQ5U&ab_channel=3Blue1Brown
+
+
+## Chapter 8 Links
+[21] Different pooling methods paper: https://arxiv.org/ftp/arxiv/papers/2009/2009.07485.pdf
+
+[22] Stanford CNN video lecture: https://www.youtube.com/watch?v=bNb2fEVKeEo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=5&ab_channel=StanfordUniversitySchoolofEngineering
+
+[23] Stanford CNN architectures: https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9&ab_channel=StanfordUniversitySchoolofEngineering
+
+
+
+
 
