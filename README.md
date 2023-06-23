@@ -70,4 +70,6 @@
 ## Chapter 10 Links
 [26] Weights and Biases tutorials: https://docs.wandb.ai/tutorials
 
+[27] IIIT Pet dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
+
 
