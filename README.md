@@ -67,4 +67,7 @@
 [25] TensorFlow Guide: https://www.tensorflow.org/guide/
 
 
+## Chapter 10 Links
+[26] Weights and Biases tutorials: https://docs.wandb.ai/tutorials
+
 
